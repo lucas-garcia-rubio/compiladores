@@ -1,4 +1,4 @@
-# trabalho-final-compiladores
+# Trabalho Final Compiladores
 Trabalho final da disciplina de Compiladores
 
 No trabalho em questão deveríamos contruir um analisador léxico e sintático para a linguagem de programação TINY, em anexo.
