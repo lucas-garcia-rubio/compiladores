@@ -1,0 +1,4 @@
+if x < 2 then
+write x
+else
+write y
